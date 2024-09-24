@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dekmask/DBJsonDK.git"
+    "url": "git+https://github.com/dekmask/DBJsonDK.git"
   },
   "author": "dekmask",
   "license": "ISC",
